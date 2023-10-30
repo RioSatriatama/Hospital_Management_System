@@ -1,0 +1,48 @@
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\bin\Debug\Hospital Management System.exe
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\bin\Debug\Hospital Management System.pdb
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\bin\Debug\Hospital Management System.xml
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital_Management_System.AdminControl.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital_Management_System.adminLogIn.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital_Management_System.PatientLogIn.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital_Management_System.Resources.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital_Management_System.RegistrationForm.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital_Management_System.selectUser.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital Management System.exe
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital Management System.xml
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital Management System.pdb
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital_Management_System.Form2.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital_Management_System.OurStaff.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\patientBrowse\patientBrowse\obj\x86\Debug\Hospital_Management_System.EditProfile.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital Management System.xml
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital_Management_System.AdminControl.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital_Management_System.adminLogIn.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital_Management_System.EditProfile.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Form2.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital_Management_System.OurStaff.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital_Management_System.PatientLogIn.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Resources.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital_Management_System.RegistrationForm.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\Hospital_Management_System.selectUser.resources
+C:\Users\admin\Desktop\VPM\VS2010 Projects\MP\Hospital Management System\obj\x86\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital Management System.xml
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital_Management_System.AdminControl.resources
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital_Management_System.adminLogIn.resources
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital_Management_System.EditProfile.resources
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Form2.resources
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital_Management_System.OurStaff.resources
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital_Management_System.PatientLogIn.resources
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Resources.resources
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital_Management_System.RegistrationForm.resources
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\Hospital_Management_System.selectUser.resources
+C:\Rio\Semester 7\Akatel dan akatek\Marta\Visual-basic-Hospital-Management-System-main\Hospital Management System\obj\x86\Debug\HMS.vbproj.GenerateResource.Cache
